@@ -1,0 +1,5 @@
+*.o
+nbproject
+test
+nif.xml
+niflib_gen
